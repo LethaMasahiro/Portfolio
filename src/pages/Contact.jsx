@@ -35,7 +35,7 @@ const Contact = () => {
         to_email: "letha.masahiro@gmail.com",
         message: form.message
       },
-      import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+      'koSrc2csealp8tdhN'
     ).then(() => {
       setIsLoading(false);
 
