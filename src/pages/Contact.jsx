@@ -26,8 +26,8 @@ const Contact = () => {
     setCurrentAnimation('hit');
 
     emailjs.send(
-      import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-      import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+      'service_xlgbjaa',
+      'template_8epvy81',
       {
         from_name: form.name,
         to_name: "Viola",
