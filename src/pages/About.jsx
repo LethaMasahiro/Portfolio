@@ -36,7 +36,7 @@ const About = () => {
       <div className='py-16'>
         <h3 className='subhead-text'>Work Experience</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-          <p>While studying fulltime, I still gathered valuable work experience, leveling up my skills and becoming acquainted with the work culture in multi-diverse teams. Here's the rundown:</p>
+          <p>While studying fulltime, I gathered valuable work experience, leveling up my skills and becoming acquainted with the work culture in multi-diverse teams. Here's the rundown:</p>
         </div>
 
         <div className='mt-12 flex'>

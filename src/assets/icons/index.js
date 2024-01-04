@@ -27,6 +27,29 @@ import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 
+import c from './c.svg'
+import cplusplus from './cplusplus.svg'
+import csharp from './csharp.svg'
+import figma from './figma.svg'
+import java from './java.svg'
+import jira from './jira.svg'
+import python from './python.svg'
+import rstudio from './rstudio.svg'
+import springboot from './springboot.svg'
+import unity from './unity.svg'
+import unrealengine from './unrealengine.svg'
+
+import msgglobal from './msgglobal.png'
+import MMI from './MMI.png'
+
+import analytics from './analytics.svg'
+import card from './card.svg'
+import drawing from './drawing.svg'
+import game from './game.svg'
+
+
+
+
 export {
     css,
     express,
@@ -55,5 +78,22 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    c,
+    cplusplus,
+    csharp,
+    figma,
+    java,
+    jira,
+    python,
+    rstudio,
+    springboot,
+    unity,
+    unrealengine,
+    msgglobal,
+    MMI,
+    analytics,
+    card,
+    drawing,
+    game
 }
