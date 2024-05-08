@@ -153,6 +153,20 @@ export const skills = [
 
 export const experiences = [
     {
+        title: "3D Full stack Developer (full time)",
+        company_name: "Luxolis",
+        icon: msgglobal,
+        iconBg: "#e1f1fd",
+        date: "Since March 2024",
+        points: [
+            "Contribute to the software development of the 3D digital twin, collaboration platform that displays 3D models from object reconstruction and object detection/ photogrammetry.",
+            "Ensure the schedule of the product development with transparency and integrity.",
+            "UI/UX design, independent product development, responding to clients’ technical requests.",
+            "Requirement engineering.",
+            "GitHub Management, AWS Management",
+        ],
+    },
+    {
         title: "Full stack Developer (working student)",
         company_name: "MSG Global Solutions",
         icon: msgglobal,
