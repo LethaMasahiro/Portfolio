@@ -260,4 +260,11 @@ export const projects = [
         description: 'Collected the input of a self-built controller in a simple 1v1 button smash game on a 40-hour long game jam, focussing on simple mechanics and a fun experience for the players.',
         link: 'https://github.com/Nimaoth/DiscoverYourPowerLevel/tree/2159d0cf463ef4d56d3c807d056a2bd0f5eb5575',
     },
+    {
+        iconUrl: calendar,
+        theme: 'btn-back-black',
+        name: 'Absence Tracking App',
+        description: 'Created a simple React Native App that tracks the attendance and absences of a non-profit dance group (work in progress)',
+        link: 'https://github.com/Nimaoth/DiscoverYourPowerLevel/tree/2159d0cf463ef4d56d3c807d056a2bd0f5eb5575',
+    },
 ];
