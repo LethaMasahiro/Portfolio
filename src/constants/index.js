@@ -35,7 +35,8 @@ import {
     analytics,
     card,
     drawing,
-    game
+    game,
+    calendar
 } from "../assets/icons";
 
 export const skills = [
